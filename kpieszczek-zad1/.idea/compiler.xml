@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="kpieszczek-zad1-web" />
+        <module name="soap-connector" />
+        <module name="soap-api" />
+        <module name="kpieszczek-zad1-ear" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="kpieszczek-zad1" target="11" />
+      <module name="kpieszczek-zad1-ear" target="11" />
+      <module name="kpieszczek-zad1-web" target="11" />
+      <module name="soap-api" target="11" />
+      <module name="soap-connector" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

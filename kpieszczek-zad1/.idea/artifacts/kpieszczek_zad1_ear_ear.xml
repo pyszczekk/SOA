@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="kpieszczek-zad1-ear:ear">
+    <output-path>$PROJECT_DIR$/kpieszczek-zad1-ear/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>kpieszczek-zad1-ear</module>
+        <packaging>ear</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="kpieszczek-zad1-ear.ear">
+      <element id="artifact" artifact-name="kpieszczek-zad1-ear:ear exploded" />
+    </root>
+  </artifact>
+</component>

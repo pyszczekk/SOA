@@ -1,0 +1,8 @@
+pl/edu/agh/soa/rest/Students.class
+pl/edu/agh/soa/rest/jwt/JWTTokenNeededFilter.class
+pl/edu/agh/soa/rest/jwt/KeyGenerator.class
+pl/edu/agh/soa/rest/HelloWorld.class
+pl/edu/agh/soa/rest/jwt/Auth.class
+pl/edu/agh/soa/rest/jwt/JWTTokenNeeded.class
+pl/edu/agh/soa/rest/jwt/KeyGeneratorImpl.class
+pl/edu/agh/soa/rest/Config.class

@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="kpieszczek-zad1-ejb:ejb exploded">
+    <output-path>$PROJECT_DIR$/kpieszczek-zad1-ejb/target/kpieszczek-zad1-ejb</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>kpieszczek-zad1-ejb</module>
+        <packaging>ejb</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="soap-api/ejb/EJB" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/soap-api/target/kpieszczek-zad1-ejb/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="soap-api" />
+    </root>
+  </artifact>
+</component>

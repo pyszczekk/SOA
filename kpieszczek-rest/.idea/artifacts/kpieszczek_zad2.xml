@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="kpieszczek-zad2">
+    <output-path>$PROJECT_DIR$/soap-api/target</output-path>
+    <root id="archive" name="kpieszczek-zad2.jar" />
+  </artifact>
+</component>

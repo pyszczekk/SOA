@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="rest-api:war" />
+      <artifact name="soap-api:ejb" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="227cc8fa-04e5-4ab7-8eda-28d772da871e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1afIRIM1Jq4STiwdPVa9tqfNDyv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/rest-api/src/main/java/pl/edu/agh/soa/rest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/rest-api/src/main/webapp/WEB-INF" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pl.edu.agh.soa.models" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/rest-api/src/main/webapp/WEB-INF" />
+      <recent name="$PROJECT_DIR$/rest-api/src/main/java/pl/edu/agh/soa/rest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JBoss Server.JBoss 18.0.1.Final">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.edu.agh.soa.soap.Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.agh.soa.soap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.edu.agh.soa.soap.Client" />
+      <module name="soap-connector" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.agh.soa.soap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="rest-connector" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JBoss 18.0.1.Final" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss 18.0.1.Final" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/kpieszczek-zad1-web/" />
+      <option name="BROWSER_ID" value="e5120d43-2c3f-47ef-9f26-65e539e05186" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="rest-api:war">
+          <settings />
+        </artifact>
+        <artifact name="soap-api:ejb">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="SERVER" />
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="DOMAIN" value="false" />
+        <option name="SERVER_GROUP" value="main-server-group" />
+        <option name="USERNAME" value="" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="JBoss" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59905" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="rest-api:war" />
+          <artifact name="soap-api:ejb" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Client (1)" />
+      <item itemvalue="JBoss Server.JBoss 18.0.1.Final" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Client (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.13393529" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="JBoss Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="JBoss Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="227cc8fa-04e5-4ab7-8eda-28d772da871e" name="Default Changelist" comment="" />
+      <created>1587120211634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587120211634</updated>
+      <workItem from="1587120217313" duration="21249000" />
+      <workItem from="1587150818455" duration="5006000" />
+      <workItem from="1587156828216" duration="196000" />
+      <workItem from="1587208364796" duration="14254000" />
+      <workItem from="1587302614585" duration="374000" />
+      <workItem from="1587319807407" duration="55000" />
+      <workItem from="1587376787113" duration="2379000" />
+      <workItem from="1589367416711" duration="30000" />
+      <workItem from="1589542194290" duration="49220000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="426" y="82" key="#Client_(1)" timestamp="1587221514754">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="426" y="82" key="#Client_(1)/0.23.1440.809@0.23.1440.809" timestamp="1587221514754" />
+    <state x="320" y="93" key="#Project_Structure" timestamp="1589560029336">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="320" y="93" key="#Project_Structure/0.23.1440.809@0.23.1440.809" timestamp="1589560029336" />
+    <state x="458" y="189" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1587217530783">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="458" y="189" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.809@0.23.1440.809" timestamp="1587217530783" />
+    <state x="184" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589544168908">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="184" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.809@0.23.1440.809" timestamp="1589544168908" />
+    <state x="459" y="227" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589808302547">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="459" y="227" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.809@0.23.1440.809" timestamp="1589808302547" />
+    <state x="479" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1589554755774">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="479" y="135" key="#com.intellij.ide.util.MemberChooser/0.23.1440.809@0.23.1440.809" timestamp="1589554755774" />
+    <state x="460" y="171" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589813365941">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="460" y="171" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.809@0.23.1440.809" timestamp="1589813365941" />
+    <state width="663" height="195" key="GridCell.Tab.0.bottom" timestamp="1589820770723">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="663" height="195" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1589820770723" />
+    <state width="663" height="195" key="GridCell.Tab.0.center" timestamp="1589820770722">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="663" height="195" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1589820770722" />
+    <state width="663" height="195" key="GridCell.Tab.0.left" timestamp="1589820770721">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="663" height="195" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1589820770721" />
+    <state width="663" height="195" key="GridCell.Tab.0.right" timestamp="1589820770722">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="663" height="195" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1589820770722" />
+    <state x="258" y="89" key="Maven.ArtifactSearchDialog" timestamp="1589720503625">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="258" y="89" key="Maven.ArtifactSearchDialog/0.23.1440.809@0.23.1440.809" timestamp="1589720503625" />
+    <state x="210" y="23" key="SettingsEditor" timestamp="1589543484767">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="210" y="23" key="SettingsEditor/0.23.1440.809@0.23.1440.809" timestamp="1589543484767" />
+    <state x="524" y="202" key="chooseDestDirectoryDialog" timestamp="1589553388959">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="524" y="202" key="chooseDestDirectoryDialog/0.23.1440.809@0.23.1440.809" timestamp="1589553388959" />
+    <state x="413" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1589367416272">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="413" y="260" key="com.intellij.ide.util.TipDialog/0.23.1440.809@0.23.1440.809" timestamp="1589367416272" />
+    <state x="400" y="63" width="639" height="729" key="find.popup" timestamp="1589812560087">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="400" y="63" width="639" height="729" key="find.popup/0.23.1440.809@0.23.1440.809" timestamp="1589812560087" />
+    <state x="430" y="40" key="refactoring.ChangeSignatureDialog" timestamp="1589546407147">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="430" y="40" key="refactoring.ChangeSignatureDialog/0.23.1440.809@0.23.1440.809" timestamp="1589546407147" />
+  </component>
+</project>

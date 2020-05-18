@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kpieszczek-zad1.iml" filepath="$PROJECT_DIR$/kpieszczek-zad1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kpieszczek-zad1-ear/kpieszczek-zad1-ear.iml" filepath="$PROJECT_DIR$/kpieszczek-zad1-ear/kpieszczek-zad1-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kpieszczek-zad1-web/kpieszczek-zad1-web.iml" filepath="$PROJECT_DIR$/kpieszczek-zad1-web/kpieszczek-zad1-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soap-api/soap-api.iml" filepath="$PROJECT_DIR$/soap-api/soap-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soap-connector/soap-connector.iml" filepath="$PROJECT_DIR$/soap-connector/soap-connector.iml" />
+    </modules>
+  </component>
+</project>

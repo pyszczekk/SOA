@@ -1,0 +1,5 @@
+pl/edu/agh/soa/soap/StudentService.class
+pl/edu/agh/soa/soap/StudentsList.class
+pl/edu/agh/soa/soap/StudentServiceImpl.class
+pl/edu/agh/soa/soap/HelloSecurity.class
+pl/edu/agh/soa/soap/models/Student.class

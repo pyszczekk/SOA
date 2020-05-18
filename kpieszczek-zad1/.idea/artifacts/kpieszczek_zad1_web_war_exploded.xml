@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="kpieszczek-zad1-web:war exploded">
+    <output-path>$PROJECT_DIR$/kpieszczek-zad1-web/target/kpieszczek-zad1-web</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>kpieszczek-zad1-web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="kpieszczek-zad1-web" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/kpieszczek-zad1-web/target/kpieszczek-zad1-web/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="kpieszczek-zad1-web/web/Web" />
+    </root>
+  </artifact>
+</component>

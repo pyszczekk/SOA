@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="kpieszczek-zad1-web:war">
+    <output-path>$PROJECT_DIR$/kpieszczek-zad1-web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>kpieszczek-zad1-web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="kpieszczek-zad1-web.war">
+      <element id="artifact" artifact-name="kpieszczek-zad1-web:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,11 @@
+syntax = "proto3";
+package pl.edu.agh.soa.models;
+
+message Student {
+     string name = 1;
+     string last_name = 2;
+     string faculty = 3;
+     string field = 4;
+     int32 student_id = 5;
+     repeated string courses = 7;
+}
