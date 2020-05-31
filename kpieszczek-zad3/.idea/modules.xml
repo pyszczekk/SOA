@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kpieszczek-zad1.iml" filepath="$PROJECT_DIR$/kpieszczek-zad1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kpieszczek-zad3-dao/kpieszczek-zad3-dao.iml" filepath="$PROJECT_DIR$/kpieszczek-zad3-dao/kpieszczek-zad3-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kpieszczek-zad3-ear/kpieszczek-zad3-ear.iml" filepath="$PROJECT_DIR$/kpieszczek-zad3-ear/kpieszczek-zad3-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kpieszczek-zad3-jpa/kpieszczek-zad3-jpa.iml" filepath="$PROJECT_DIR$/kpieszczek-zad3-jpa/kpieszczek-zad3-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kpieszczek-zad3-model/kpieszczek-zad3-model.iml" filepath="$PROJECT_DIR$/kpieszczek-zad3-model/kpieszczek-zad3-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-api/rest-api.iml" filepath="$PROJECT_DIR$/rest-api/rest-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-connector/rest-connector.iml" filepath="$PROJECT_DIR$/rest-connector/rest-connector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soap-api/soap-api.iml" filepath="$PROJECT_DIR$/soap-api/soap-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soap-connector/soap-connector.iml" filepath="$PROJECT_DIR$/soap-connector/soap-connector.iml" />
+    </modules>
+  </component>
+</project>
